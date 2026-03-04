@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+scikit-learn
+joblib
+
+# Transformers / PyTorch
+torch
+transformers
+
+# Sparse matrices (SVM hybrid)
+scipy
+
+# Gemini baseline (optional)
+google-generativeai
